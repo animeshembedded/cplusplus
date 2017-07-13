@@ -1,0 +1,8 @@
+namespace INET_IPV4
+{
+	struct ip
+	{
+		char buffer[40];
+	}ipheader;
+	
+}

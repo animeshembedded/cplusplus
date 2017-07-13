@@ -1,0 +1,8 @@
+namespace INET_IPV4
+{
+	struct tcp
+	{
+		char buffer[40];
+	}tcpheader;
+	
+}
